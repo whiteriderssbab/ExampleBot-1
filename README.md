@@ -1,0 +1,2 @@
+# ExampleBot
+A bot example
